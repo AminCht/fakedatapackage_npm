@@ -1,1 +1,1 @@
-# This is a package that insert fake datas into your database
+# This is a package that inserts fake datas into your database
